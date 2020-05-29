@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 6A87-9B66
+
+ Directory of d:\Profiles\tkaur\Desktop\Myproject
+
+29/05/2020  15:15    <DIR>          .
+29/05/2020  15:15    <DIR>          ..
+29/05/2020  15:15                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   3,374,317,568 bytes free
